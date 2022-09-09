@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/previous_editions/GREENS2012/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/previous_editions/GREENS2013/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/previous_editions/GREENS2014/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/previous_editions/GREENS2015/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/previous_editions/GREENS2016/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/previous_editions/GREENS2018/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/GREENS2023/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/call/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/previous_editions/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/</loc>
+</url>
+</urlset>
