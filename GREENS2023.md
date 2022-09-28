@@ -6,8 +6,8 @@ title: GREENS 2023
 # 7th International Workshop on Green and Sustainable Software (GREENS'23) 
 
 - Co-located with [ICSE 2023](https://conf.researchr.org/home/icse-2023) (under submission)
-- Hybrid 
-- June X-Y, 2023 (two days, envisioned)
+- Blended 
+- May X-Y, 2023 (two days, envisioned)
 - Registratration [NOT OPEN](https://conf.researchr.org/attending/icse-2023/registration)
 - Please indicate your intent to participate [here](https://forms.gle/loremipsum)
 
@@ -116,7 +116,7 @@ TBD
 
 #### Web, Virtualization, and Proceedings Chair:
 
-- [Roberto Verdecchia](http://robertoverdecchia.github.io), Vrije Universiteit Amsterdam & Gran Sasso Science Institute
+- [Roberto Verdecchia](http://robertoverdecchia.github.io), Vrije Universiteit Amsterdam
 
 
 ## Program Committee
