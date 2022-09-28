@@ -119,30 +119,21 @@ TBD
 - [Roberto Verdecchia](http://robertoverdecchia.github.io), Vrije Universiteit Amsterdam
 
 
-## Program Committee
-TBD
+## Program Committee (to be confirmed)
 
-<!--
-- Marco Aiello (U of Stuttgart, Germany)
-- Vasilios Andrikopoulos (U Groningen, Netherlands)     
-- Rajkumar Buyya (U Melbourne, AUS)
-- Coral Calero (U of Castilla-La Mancha, Spain)
-- Fernando Castor (Federal U of Pernambuco, Brazil)
-- Alcides Fonseca (U of Lisbon, Portugal)
-- Lidia Fuentes (U Malaga, Spain)
-- Danny Greefhorst (ArchiXL, Netherlands)
-- Serge Haziyev (SoftServe, USA)
-- Abram Hindle (U of Alberta, CA)
-- Grace Lewis (SEI at CMU, USA)
-- Ivano Malavolta (Vrije Universiteit Amsterdam, Netherlands)
-- Claudia Melo (U of Brasilia, Brazil)
-- Hausi Mueller (U of Victoria, CA)
-- Olivier Philippot (Greenspector, France)
-- Giuseppe Procaccianti (Vandebron, Netherlands)
-- Antony Tang (Swinburne U of Technology, AUS)
-- Colin Venters (U of Huddersfield, UK)
-- John Whittle (Monash U, AUS)
--->
+- Vasilios Andrikopoulos (University of Groningen, Netherlands)
+- Shaiful Chowdhury (University of Calgary, Canada)
+- Maria Spichkova (RMIT University, Australia)
+- Nelly Condori-Fernandez (Universidad Santiago de Compostela, Spain)
+- Ana Moreira (NOVA School of Science and Technology, Portugal)
+- Letizia Jaccheri (NTNU, Norway)
+- Birgit Penzenstadler (Chalmers University of Technology, Sweden)
+- Coral Calero (Universidad de Castilla-La Mancha, Spain)
+- Grace Lewis (Carnegie Mellon Software Engineering Institute, USA)
+- Henry Muccini (University of L’Aquila, Italy)
+- Joao Paulo Fernandes (University of Coimbra, Portugal)
+- Stefan Naumann (Trier University of Applied Sciences, Germany)
+
 ## Call for Papers 
 
 [Call for Papers (PDF)](https://tinyurl.com/loremipsum)
