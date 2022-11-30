@@ -6,10 +6,8 @@ title: GREENS 2023
 # 7th International Workshop on Green and Sustainable Software (GREENS'23) 
 
 - Co-located with [ICSE 2023](https://conf.researchr.org/home/icse-2023) (under submission)
-- Blended 
 - May X-Y, 2023 (two days, envisioned)
 - Registratration [NOT OPEN](https://conf.researchr.org/attending/icse-2023/registration)
-- Please indicate your intent to participate [here](https://forms.gle/loremipsum)
 
 ## Theme & Goals
 
@@ -20,7 +18,16 @@ The engineering of green software-intensive systems is critical in our drive tow
 
 GREENS 2023 seeks contributions addressing, but not limited to, the following
 topics related to sustainable software and software for sustainability:
-- TBD
+- Practices for software sustainability
+- Metrics and measures for software sustainability
+- Applied, or experimented with, software engineering methodologies at all levels (from requirements elicitation to architecture design, coding, testing)
+- Patterns and anti-patterns
+- Architectural tactics, architectural styles and design patterns
+- Teaching and training of skills and competences in software sustainability
+- Conceptual reflections related to software sustainability
+- Progress on the various dimensions of software sustainability and their interplay
+- Software adaptation for sustainability
+- Tools to support sustainabilty-aware decision making
 
 
 ## Submission Guidelines 
@@ -36,24 +43,6 @@ Workshop papers must follow the [ICSE 2023 formatting instructions](https://conf
 - Notification to authors: February 24, 2023 (AoE time)
 - Camera-ready copies due: March 17, 2023 (AoE time)
 - Workshop: TBA
-
-<!--
-- Full papers (max 8 pages) will describe concrete contributions to the GREENS. They will be structured as follows:
---- A description of the sustainability problem you address.
---- A description of the SE solution you propose.
--- A discussion of how results are measurable (e.g., KPIs).
--- A presentation of the evidence of contribution to sustainability, ideally including real world experiences.
--- A discussion of the costs and benefits of your approach.
--- A presentation of the transferable artifacts you are contributing e.g., replication package, code, examples, documentation, educational materials, case studies.
-
-- Extended abstracts (max 2 pages) will describe a motivating challenge problem that has ideally emerged from practice. They will be structured as follows:
--- The context.
--- The challenge problem.
--- The current solution/s (if present) and their strengths and weaknesses. 
--->
-
-## Important Dates 
-TBD
 
 <!-- 
 ## Keynote
@@ -119,7 +108,7 @@ TBD
 - [Rick Kazman](https://shidler.hawaii.edu/itm/directory/rick-kazman), University of Hawaii
 
 
-#### Web, Virtualization, and Proceedings Chair:
+#### Web and Proceedings Chair
 
 - [Roberto Verdecchia](http://robertoverdecchia.github.io), Vrije Universiteit Amsterdam
 
