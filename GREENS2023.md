@@ -29,6 +29,13 @@ Prospective participants are invited to submit three types of contributions:
 - Position papers (up to 5 pages)
 - Emerging research papers (up to 8 pages)
 
+Workshop papers must follow the [ICSE 2023 formatting instructions](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=greens2023). Accepted papers will become part of the workshop proceedings.
+
+## Important Dates 
+- Workshop paper submissions due: January 13, 2023 (AoE time)
+- Notification to authors: February 24, 2023 (AoE time)
+- Camera-ready copies due: March 17, 2023 (AoE time)
+- Workshop: TBA
 
 <!--
 - Full papers (max 8 pages) will describe concrete contributions to the GREENS. They will be structured as follows:
@@ -43,8 +50,6 @@ Prospective participants are invited to submit three types of contributions:
 -- The context.
 -- The challenge problem.
 -- The current solution/s (if present) and their strengths and weaknesses. 
-
-Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](https://conf.researchr.org/track/icse-2021/icse-2021-papers#Call-for-Papers), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=GREENS2021). Accepted papers will become part of the workshop proceedings.
 -->
 
 ## Important Dates 
