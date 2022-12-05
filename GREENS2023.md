@@ -134,5 +134,5 @@ TBD
 
 <br><br>
 <div style="float:center">
-<img src="img/sigsoft-no-tagline.png" width="200">         <img src="img/IEEE-CS_LogoTM-orange.png" width="200">
+<img src="https://raw.githubusercontent.com/greensworkshop/greensworkshop.github.io/main/img/sigsoft-no-tagline.png" width="200">         <img src="https://raw.githubusercontent.com/greensworkshop/greensworkshop.github.io/main/img/IEEE-CS_LogoTM-orange.png" width="200">
 </div>
