@@ -128,10 +128,6 @@ TBD
 - Joao Paulo Fernandes (University of Coimbra, Portugal)
 - Stefan Naumann (Trier University of Applied Sciences, Germany)
 
-## Call for Papers 
-
-[Call for Papers (PDF)](https://tinyurl.com/loremipsum)
-
 <br><br>
 <div style="float:center">
 <img src="https://raw.githubusercontent.com/greensworkshop/greensworkshop.github.io/main/img/sigsoft-no-tagline.png" width="200">         <img src="https://raw.githubusercontent.com/greensworkshop/greensworkshop.github.io/main/img/TCSE.png" width="200">
