@@ -116,12 +116,12 @@ TBD
 ## Program Committee (to be confirmed)
 
 - Vasilios Andrikopoulos (University of Groningen, Netherlands)
-- Shaiful Chowdhury (University of Calgary, Canada)
+<!--- - Shaiful Chowdhury (University of Calgary, Canada) --->
 - Maria Spichkova (RMIT University, Australia)
 - Nelly Condori-Fernandez (Universidad Santiago de Compostela, Spain)
 - Ana Moreira (NOVA School of Science and Technology, Portugal)
-- Letizia Jaccheri (NTNU, Norway)
-- Birgit Penzenstadler (Chalmers University of Technology, Sweden)
+<!--- - Letizia Jaccheri (NTNU, Norway) --->
+<!--- - Birgit Penzenstadler (Chalmers University of Technology, Sweden) --->
 - Coral Calero (Universidad de Castilla-La Mancha, Spain)
 - Grace Lewis (Carnegie Mellon Software Engineering Institute, USA)
 - Henry Muccini (University of L’Aquila, Italy)
