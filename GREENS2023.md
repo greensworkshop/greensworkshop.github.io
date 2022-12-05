@@ -131,3 +131,8 @@ TBD
 ## Call for Papers 
 
 [Call for Papers (PDF)](https://tinyurl.com/loremipsum)
+
+<br><br>
+<div style="float:center">
+<img src="img/sigsoft-no-tagline.png" width="200">         <img src="img/IEEE-CS_LogoTM-orange.png" width="200">
+</div>
