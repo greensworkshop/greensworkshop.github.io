@@ -32,9 +32,9 @@ topics related to sustainable software and software for sustainability:
 
 ## Submission Guidelines 
 Prospective participants are invited to submit three types of contributions:
-- Extended abstracts (up to 2 pages)
-- Position papers (up to 5 pages)
-- Emerging research papers (up to 8 pages)
+- **Emerging research papers (up to 8 pages)**: these should describe contributions offering novel research results, addressing challenging real-world problems with innovative ideas. Submissions should clearly describe the challenges and problems tackled, the relevant state of the art, the solution being offered, and the potential benefits of the contribution, from an academic or industrial perspective.
+- **Position papers (up to 5 pages)**: these should be contributions outlining forward-looking ideas or thought-provoking reflections that call for further discussion and research in the community.  These should describe a specific position or opinion of the authors, or provide a well-reasoned and motivated vision.
+- **Extended abstracts (up to 2 pages)**: These abstracts should propose novel research topics for discussion in the community, addressing challenging problems from an academic or industrial perspective. The motivation for your topic should be grounded in the literature or in practical experience.
 
 Workshop papers must follow the [ICSE 2023 formatting instructions](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=greens2023). Accepted papers will become part of the workshop proceedings.
 
