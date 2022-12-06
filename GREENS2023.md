@@ -118,6 +118,7 @@ TBD
 - Vasilios Andrikopoulos (University of Groningen, Netherlands)
 - Maria Spichkova (RMIT University, Australia)
 - Nelly Condori-Fernandez (Universidad Santiago de Compostela, Spain)
+- Letizia Jaccheri (Norwegian University of Science and Technology)
 - Ana Moreira (NOVA School of Science and Technology, Portugal)
 - Coral Calero (Universidad de Castilla-La Mancha, Spain)
 - Grace Lewis (Carnegie Mellon Software Engineering Institute, USA)
