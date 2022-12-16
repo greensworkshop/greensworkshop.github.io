@@ -125,6 +125,7 @@ TBD
 - Henry Muccini (University of L’Aquila, Italy)
 - Joao Paulo Fernandes (University of Coimbra, Portugal)
 - Stefan Naumann (Trier University of Applied Sciences, Germany)
+- Shaiful Alam Chowdhury (University of Calgary, Canada)
 
 <br><br>
 <div style="float:center">
