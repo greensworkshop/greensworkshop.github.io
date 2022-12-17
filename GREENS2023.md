@@ -7,7 +7,7 @@ title: GREENS 2023
 
 - Co-located with [ICSE 2023](https://conf.researchr.org/home/icse-2023) (under submission)
 - May 14th, 2023 (one day)
-- Registratration [NOT OPEN](https://conf.researchr.org/attending/icse-2023/registration)
+- Registration [NOT OPEN](https://conf.researchr.org/attending/icse-2023/registration)
 
 ## Theme & Goals
 
