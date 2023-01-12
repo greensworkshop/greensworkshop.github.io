@@ -5,7 +5,7 @@ title: GREENS 2023
 
 # 7th International Workshop on Green and Sustainable Software (GREENS'23) 
 
-- Co-located with [ICSE 2023](https://conf.researchr.org/home/icse-2023) (under submission)
+- Co-located with [ICSE 2023](https://conf.researchr.org/home/icse-2023)
 - May 14th, 2023 (one day)
 - Registration [here](https://conf.researchr.org/attending/icse-2023/registration)
 
