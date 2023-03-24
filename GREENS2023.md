@@ -71,7 +71,16 @@ We are happy to host the following keynote talk.
 - Norbert Seyff, Birgit Penzenstadler, Stefanie Betz, Ian Brooks, Shola Oyedeji, Jari Porras, Leticia Duboc, Sedef Akinli Kocak and Colin C. Venters. *The Elephant in the Room – Educating Practitioners on Software Development for Sustainability* ([PDF](https://figshare.com/articles/preprint/The_Elephant_in_the_Room_Educating_Practitioners_on_Software_Development_for_Sustainability/14370626), [Video](https://www.dropbox.com/s/ie3l48b0dpk2sf1/Educating%20Practitioners%20Sustainability.mp4?dl=0), [Slides](https://docs.google.com/presentation/d/1bZHOU0DCoP4x9-wtrLoFsANjwCffpWOvRLkIw25M6kU/edit#slide=id.p)) -->
 
 ## Workshop Program 
-TDB 
+- **9:00-9:30** Introduction from the Chairs
+- **9:30-10:30** Pitch of accepted papers (5 minutes per paper)
+- **10:30-11:00** *Break*
+- **11:00-11:30** Discuss themes for breakout groups
+- **11:30-12:30** Break-out session
+- **12:30-13:45** *Lunch*
+- **13:45-14:15** Short progress report and plenmary discussion
+- **14:15-15:15** Break-out session
+- **15:15-15:45** *Break*
+- **15:45-17:15** Final discussion and closure on follow-ups
 
 <!-- **Before** the workshop days, we will setup a Slack Channel for all registered participants. We will use it to kickstart the working groups to build the GREENS and plan for joint papers.
 The **workshop** itself is organized in **two half-days**, each opening and closing with a plenary, with in-between independent working groups. **More details to come.** 
