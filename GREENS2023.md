@@ -29,19 +29,10 @@ topics related to sustainable software and software for sustainability:
 - Software adaptation for sustainability
 - Tools to support sustainabilty-aware decision making
 
-
-## Submission Guidelines 
-Prospective participants are invited to submit three types of contributions:
-- **Emerging research papers (up to 8 pages)**: These should describe contributions offering novel research results, addressing challenging real-world problems with innovative ideas. Submissions should clearly describe the challenges and problems tackled, the relevant state of the art, the solution being offered, and the potential benefits of the contribution, from an academic or industrial perspective.
-- **Position papers (up to 5 pages)**: These should be contributions outlining forward-looking ideas or thought-provoking reflections that call for further discussion and research in the community.  These should describe a specific position or opinion of the authors, or provide a well-reasoned and motivated vision.
-- **Extended abstracts (up to 2 pages)**: These abstracts should propose novel research topics for discussion in the community, addressing challenging problems from an academic or industrial perspective. The motivation for your topic should be grounded in the literature or in practical experience.
-
-Workshop papers must follow the [ICSE 2023 formatting instructions](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=greens2023). Accepted papers will become part of the workshop proceedings.
-
 ## Important Dates
-- Workshop paper submissions due: ~~January 13~~, **EXTENDED:** January 18 2023 (AoE time)
-- Notification to authors: February 24, 2023 (AoE time)
-- Camera-ready copies due: March 17, 2023 (AoE time)
+- Workshop paper submissions due: ~~January 13, **EXTENDED:** January 18 2023 (AoE time)~~
+- Notification to authors: ~~February 24, 2023 (AoE time)~~
+- Camera-ready copies due: ~~March 17, 2023 (AoE time)~~
 - Workshop: May 14th, 2023
 
 <!-- 
@@ -73,14 +64,31 @@ We are happy to host the following keynote talk.
 ## Workshop Program 
 - **9:00-9:30** Introduction from the Chairs
 - **9:30-10:30** Pitch of accepted papers (5 minutes per paper)
+	- Farid Edrisi and Mehdi Samanazari. *Digital Twin for Sustainability Assessment and Policy Evaluation: A Systematic Literature Review*
+	- Lorena Poenaru-Olaru, June Sallou, Luis Cruz, Jan Rellermeyer and Arie van Deursen. *Retrain AI Systems Responsibly! Use Sustainable Concept Drift Adaptation Techniques*
+	- Sankar Narayan Das, Samdyuti Suri, Kuntal Dey, Kapil Singi, Vikrant Kaulgud and Vibhu Saujanya Sharma. *Sustain the Smartness: From Smart Things to Sustainable Smart Things*
+	- Mehul Warade, Kevin Lee, Chathu Ranaweera and Jean-Guy Schneider. *Optimising Workflow execution for energy consumption and Performance*
+	- Alicia Takaoka, Dirk Ahlers, Ferdinand Adlandsvik, Eivind Dovland and Letizia Jaccheri. *Toward understanding digital support for climate neutral, inclusive and beautiful cities: A systematic literature review*
+	- Carolina Neves, Chiayu Lin, Srishti Nigam, Daumantas Patapas, Ander Eguiluz, Tanjina Islam and Ivano Malavolta. *A Study on the Energy Consumption and Performance of Single-Activity Android Apps*
+	- Malte Heithoff, Alexander Hellwig, Judith Michael and Bernhard Rumpe. *Digital Twins for Sustainable Software Systems* 
 - **10:30-11:00** *Break*
 - **11:00-11:30** Discuss themes for breakout groups
 - **11:30-12:30** Break-out session
 - **12:30-13:45** *Lunch*
-- **13:45-14:15** Short progress report and plenmary discussion
+- **13:45-14:15** Short progress report and plenary discussion
 - **14:15-15:15** Break-out session
 - **15:15-15:45** *Break*
 - **15:45-17:15** Final discussion and closure on follow-ups
+- **Time and Tocation TBD** GREENS workshop dinner
+
+
+## Submission Guidelines 
+Prospective participants are invited to submit three types of contributions:
+- **Emerging research papers (up to 8 pages)**: These should describe contributions offering novel research results, addressing challenging real-world problems with innovative ideas. Submissions should clearly describe the challenges and problems tackled, the relevant state of the art, the solution being offered, and the potential benefits of the contribution, from an academic or industrial perspective.
+- **Position papers (up to 5 pages)**: These should be contributions outlining forward-looking ideas or thought-provoking reflections that call for further discussion and research in the community.  These should describe a specific position or opinion of the authors, or provide a well-reasoned and motivated vision.
+- **Extended abstracts (up to 2 pages)**: These abstracts should propose novel research topics for discussion in the community, addressing challenging problems from an academic or industrial perspective. The motivation for your topic should be grounded in the literature or in practical experience.
+
+Workshop papers must follow the [ICSE 2023 formatting instructions](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=greens2023). Accepted papers will become part of the workshop proceedings.
 
 <!-- **Before** the workshop days, we will setup a Slack Channel for all registered participants. We will use it to kickstart the working groups to build the GREENS and plan for joint papers.
 The **workshop** itself is organized in **two half-days**, each opening and closing with a plenary, with in-between independent working groups. **More details to come.** 
