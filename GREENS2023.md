@@ -79,7 +79,7 @@ We are happy to host the following keynote talk.
 - **14:15-15:15** Break-out session
 - **15:15-15:45** *Break*
 - **15:45-17:15** Final discussion and closure on follow-ups
-- **Time and Tocation TBD** GREENS workshop dinner
+- **Time and Location TBD** GREENS workshop dinner
 
 
 ## Submission Guidelines 
