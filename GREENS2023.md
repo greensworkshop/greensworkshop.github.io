@@ -64,12 +64,12 @@ We are happy to host the following keynote talk.
 ## Workshop Program 
 - **9:00-9:30** Introduction from the Chairs
 - **9:30-10:30** Pitch of accepted papers (5 minutes per paper)
+	- Carolina Neves, Chiayu Lin, Srishti Nigam, Daumantas Patapas, Ander Eguiluz, Tanjina Islam and Ivano Malavolta. *A Study on the Energy Consumption and Performance of Single-Activity Android Apps*
 	- Farid Edrisi and Mehdi Samanazari. *Digital Twin for Sustainability Assessment and Policy Evaluation: A Systematic Literature Review*
 	- Lorena Poenaru-Olaru, June Sallou, Luis Cruz, Jan Rellermeyer and Arie van Deursen. *Retrain AI Systems Responsibly! Use Sustainable Concept Drift Adaptation Techniques*
 	- Sankar Narayan Das, Samdyuti Suri, Kuntal Dey, Kapil Singi, Vikrant Kaulgud and Vibhu Saujanya Sharma. *Sustain the Smartness: From Smart Things to Sustainable Smart Things*
 	- Mehul Warade, Kevin Lee, Chathu Ranaweera and Jean-Guy Schneider. *Optimising Workflow execution for energy consumption and Performance*
 	- Alicia Takaoka, Dirk Ahlers, Ferdinand Adlandsvik, Eivind Dovland and Letizia Jaccheri. *Toward understanding digital support for climate neutral, inclusive and beautiful cities: A systematic literature review*
-	- Carolina Neves, Chiayu Lin, Srishti Nigam, Daumantas Patapas, Ander Eguiluz, Tanjina Islam and Ivano Malavolta. *A Study on the Energy Consumption and Performance of Single-Activity Android Apps*
 	- Malte Heithoff, Alexander Hellwig, Judith Michael and Bernhard Rumpe. *Digital Twins for Sustainable Software Systems* 
 - **10:30-11:00** *Break*
 - **11:00-11:30** Discuss themes for breakout groups
