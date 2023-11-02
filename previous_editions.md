@@ -3,6 +3,7 @@ layout: page
 title: Previous GREENS editions
 ---
 
+* [GREENS 2023]({{ site.baseurl }}{% link previous_editions/GREENS2023.md %})
 * [GREENS 2018]({{ site.baseurl }}{% link previous_editions/GREENS2018.md %})
 * [GREENS 2016]({{ site.baseurl }}{% link previous_editions/GREENS2016.md %})
 * [GREENS 2015]({{ site.baseurl }}{% link previous_editions/GREENS2015.md %})
