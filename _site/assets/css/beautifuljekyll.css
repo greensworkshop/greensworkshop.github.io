@@ -13,6 +13,8 @@ body {
   position: relative;
   background-color: #fffcde;
   
+  text-align: justify;
+  text-justify: inter-word;
 }
 p {
   line-height: 1.5;
@@ -646,7 +648,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.6875rem;
+  font-size: 1.7rem;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -691,7 +693,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
