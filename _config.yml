@@ -15,12 +15,13 @@ author: GREENS Organization Committee
 
 navbar-links:
   # Call for Papers: "call"
-  GREENS 2023: "GREENS2023"
-  Previous editions: "previous_editions"
+  # GREENS 2024: "GREENS2024"
+  Previous Editions: "previous_editions"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Contact: "mailto:GREENS2023@easychair.org?Subject=[GREENS] info"
+    # For instance: Contact: "mailto:GREENS2023@easychair.org?Subject=[GREENS] info"
+  Contact: "mailto:greensworkshop123@gmail.com?Subject=[GREENS] info"
 
 # --- Logo --- #
 
@@ -38,7 +39,7 @@ round-avatar: true
 
 
 # --- Footer social media links --- #
-
+#
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
