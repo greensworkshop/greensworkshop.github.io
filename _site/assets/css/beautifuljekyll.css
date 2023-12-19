@@ -7,11 +7,11 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
-  color: #404040;
+  font-family: 'Helvetica', 'Times New Roman', serif;
+  font-size: 1.3rem;
+  color: #000000;
   position: relative;
-  background-color: #fffcde;
+  background-color: #fefff;
   
   text-align: justify;
   text-justify: inter-word;
@@ -117,7 +117,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: #41c443;
+  background-color: #4CAF50;
   border-bottom: 1px solid #DDDDDD;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   
@@ -182,7 +182,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
-  color: #404040;
+  color: #163418;
 }
 
 .navbar-toggler {
@@ -249,11 +249,11 @@ img {
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   white-space: normal;
   padding: 0.625rem;
-  background-color: #41c443;
+  background-color: #4CAF50;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
-  color: #404040;
+  color: #163418;
 }
 
 @media (min-width: 1200px) {
@@ -364,16 +364,16 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
-  background-color: #41c443;
+  background-color: #4CAF50;
   
 }
 
 footer p.text-muted {
-  color: #777777 !important;
+  color: #163418 !important;
 }
 
 footer a {
-  color: #404040;
+  color: #000000;
 }
 
 footer .list-inline {
@@ -433,7 +433,7 @@ footer .footer-custom-content {
 .post-preview a {
   text-decoration: none;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #404040;
+  color: #000000;
 }
 
 .post-preview a:focus,
@@ -540,12 +540,12 @@ footer .footer-custom-content {
 }
 
 .blog-tags span {
-  color: #404040;
+  color: #000000;
   opacity: 0.8;
 }
 
 .blog-tags a {
-  color: #404040;
+  color: #000000;
   text-decoration: none;
   padding: 0 0.3125rem;
   opacity: 0.8;
@@ -555,8 +555,8 @@ footer .footer-custom-content {
 
 .blog-tags a:hover {
   opacity: 1;
-  color: #404040;
-  border-color: #404040;
+  color: #000000;
+  border-color: #000000;
 }
 
 .post-preview .blog-tags {
@@ -776,7 +776,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 0.625rem 0.3125rem;
   background-color: #FFF;
   border-radius: 0;
-  color: #404040;
+  color: #000000;
 }
 @media (min-width: 768px) {
   .pagination .page-item .page-link {
