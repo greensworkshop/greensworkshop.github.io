@@ -367,6 +367,32 @@ img {
   }
 }
 
+/* --- INFO Header --- */
+.info-header {
+	display: flex;
+	justify-content: center;
+}
+
+.info-block {
+	min-width: 120px;
+	text-align: center;
+	border: 0;
+	padding: 0px;
+	margin: 20px;
+}
+
+.info-block-text {
+	display: block;
+}
+
+.info-img {
+	height: 100px;
+	display: flex;
+	margin: auto;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
 /* --- Footer --- */
 
 footer {
