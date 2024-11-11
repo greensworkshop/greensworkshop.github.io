@@ -1008,3 +1008,8 @@ pre {
   display: block;
   margin: 0 auto;
 }
+
+.strikethrough {
+  text-decoration: line-through;
+  color: red;
+}
