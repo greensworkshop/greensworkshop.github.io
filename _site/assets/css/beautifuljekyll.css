@@ -1013,3 +1013,92 @@ pre {
   text-decoration: line-through;
   color: red;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+td[data-label="Time"] {
+  width: 160px; /* Fixed width for the Time column */
+}
+
+td[data-label="Session"] {
+  width: 230px; /* Fixed width for the Session column */
+}
+
+td[data-label="Description"] {
+  width: auto; /* Flexible width for the Description column */
+}
+
+@media (max-width: 700px) {
+  body {
+    font-size: 3.5vw;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto; /* Enable horizontal scrolling on small screens */
+    white-space: nowrap;
+    font-size: 3vw;
+  }
+
+  td[data-label="Description"] {
+    width: auto; /* Flexible width for the Description column */
+    white-space: wrap;
+    font-size: 3vw;
+  }
+
+  td[data-label="Session"] {
+    display:none;
+  }
+ 
+  #session-col{
+    display:none;
+  }
+
+  td[data-label="Time"] {
+    width: auto;
+    white-space: wrap;
+    font-size: 3vw;
+  }
+}
+
+/*
+@media screen and (max-width: 600px) {
+    table, thead, tbody, th, td, tr {
+        display: block;
+    }
+    thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+    tr {
+        margin-bottom: 10px;
+    }
+    td {
+        border: none;
+        position: relative;
+        padding-left: 50%;
+    }
+    td:before {
+        position: absolute;
+        top: 6px;
+        left: 6px;
+        width: 45%;
+        padding-right: 10px;
+        white-space: nowrap;
+        content: attr(data-label);
+        font-weight: bold;
+    }
+}*/
